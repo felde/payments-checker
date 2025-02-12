@@ -1,13 +1,12 @@
 {
     "notifications": [
-        {"NotifyNumber":"5525432591","Casa":"Casa 2A"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 2C"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 3B"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 7B"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 7C"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 8A"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 8D"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 9A"},
-        {"NotifyNumber":"5525432591","Casa":"Casa 10B"}
+        {
+            "NotifyNumber": "5518795973",
+            "Casa": "Casa 4B"
+        },
+        {
+            "NotifyNumber": "5548470085",
+            "Casa": "Casa 4B"
+        }
     ]
 }

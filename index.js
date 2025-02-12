@@ -1,7 +1,9 @@
 require("dotenv").config();
 const axios = require("axios");
 const fs = require("fs");
-
+const imageBase64 = fs.readFileSync("./assets/header_msg.jpeg", {
+  encoding: "base64",
+});
 // Configura las credenciales de WhatsApp Business API
 const whatsappApiUrl = process.env.WHATSAPP_API_URL;
 const accessToken = process.env.ACCESS_TOKEN;
@@ -25,7 +27,7 @@ async function sendMessage(phoneNumber, components) {
         template: {
           name: templateName,
           language: {
-            code: "en_US", // Cambia esto al código de idioma de tu plantilla
+            code: "es_MX", // Cambia esto al código de idioma de tu plantilla
           },
           components: components,
         },
@@ -56,19 +58,34 @@ async function processNotifications() {
       console.error(`Invalid phone number format: ${phoneNumber}`);
       continue;
     }
+
     const components = [
       {
         type: "body",
         parameters: [
-          { type: "text", text: Casa },
-          { type: "text", text: lockCode },
-          { type: "text", text: new Date().getMonth() + 1 },
-          { type: "text", text: new Date().getFullYear() },
+          { type: "text", parameter_name: "notify", text: NotifyNumber },
+          { type: "text", parameter_name: "house", text: Casa },
+          { type: "text", parameter_name: "key", text: lockCode },
+          {
+            type: "text",
+            parameter_name: "month",
+            text: (new Date().getMonth() + 1).toString(),
+          },
+          {
+            type: "text",
+            parameter_name: "year",
+            text: new Date().getFullYear().toString(),
+          },
         ],
       },
     ];
+
+    console.log(
+      "Datos enviados a WhatsApp:",
+      JSON.stringify(components, null, 2)
+    );
     const sendStatus = await sendMessage(phoneNumber, components);
-    console.log(`Message to ${phoneNumber} (${Casa}): ${sendStatus}`);
+    console.log(`Message to ${phoneNumber} (${Casa}):`, sendStatus);
   }
 }
 

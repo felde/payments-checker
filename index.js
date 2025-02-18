@@ -59,24 +59,28 @@ async function processNotifications() {
       continue;
     }
 
+    const nextMonth = new Date().getMonth() + 2;
+    const month = nextMonth > 12 ? 1 : nextMonth;
+    const year = nextMonth > 12 ? new Date().getFullYear() + 1 : new Date().getFullYear();
+
     const components = [
       {
-        type: "body",
-        parameters: [
-          { type: "text", parameter_name: "notify", text: NotifyNumber },
-          { type: "text", parameter_name: "house", text: Casa },
-          { type: "text", parameter_name: "key", text: lockCode },
-          {
-            type: "text",
-            parameter_name: "month",
-            text: (new Date().getMonth() + 1).toString(),
-          },
-          {
-            type: "text",
-            parameter_name: "year",
-            text: new Date().getFullYear().toString(),
-          },
-        ],
+      type: "body",
+      parameters: [
+        { type: "text", parameter_name: "notify", text: NotifyNumber },
+        { type: "text", parameter_name: "house", text: Casa },
+        { type: "text", parameter_name: "key", text: lockCode },
+        {
+        type: "text",
+        parameter_name: "month",
+        text: month.toString(),
+        },
+        {
+        type: "text",
+        parameter_name: "year",
+        text: year.toString(),
+        },
+      ],
       },
     ];
 

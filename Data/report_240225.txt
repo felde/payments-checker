@@ -1,0 +1,84 @@
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7291071224"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 5D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "212"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "3"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527291071224 (Casa 5D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527291071224', wa_id: '5217291071224' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MTA3MTIyNBUCABEYEjlGN0RBQzY3ODBGRUMxNzYzQgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7228516900"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 6B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "212"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "3"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527228516900 (Casa 6B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228516900', wa_id: '5217228516900' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODUxNjkwMBUCABEYEjIzM0QxRDAyRUUwODI3MTZDMAA=',
+      message_status: 'accepted'
+    }
+  ]
+}

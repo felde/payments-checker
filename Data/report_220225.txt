@@ -124,3 +124,45 @@ Message to +527226496954 (Casa 5B): {
     }
   ]
 }
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7223775895"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "212"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "3"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527223775895 (Casa 4C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223775895', wa_id: '5217223775895' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzc3NTg5NRUCABEYEkVCNTlDMjM0NkNFMkQzNUY3MgA=',
+      message_status: 'accepted'
+    }
+  ]
+}

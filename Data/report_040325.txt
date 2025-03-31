@@ -1,0 +1,42 @@
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7222549884"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 7D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "212"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "4"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527222549884 (Casa 7D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527222549884', wa_id: '5217222549884' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMjU0OTg4NBUCABEYEjI0REREQTYwOTA3MjgyRTkzNwA=',
+      message_status: 'accepted'
+    }
+  ]
+}

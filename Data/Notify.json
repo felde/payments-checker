@@ -1,3 +1,12 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "NotifyNumber": "7291071224",
+            "Casa": "Casa 5D"
+        },
+        {
+            "NotifyNumber": "5518795973",
+            "Casa": "Casa XX"
+        }
+    ]
 }

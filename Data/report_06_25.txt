@@ -1,0 +1,1148 @@
+      }
+    ]
+  }
+]
+Message to +527291243547 (Casa 1C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527291243547', wa_id: '5217291243547' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MTI0MzU0NxUCABEYEjMzODQzMDgzNkUzNjVCMjlFQwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5539988713"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 2A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525539988713 (Casa 2A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525539988713', wa_id: '5215539988713' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzOTk4ODcxMxUCABEYEjUxOTQzQzk4N0JEMTk4MEEzRAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7226683472"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 2B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527226683472 (Casa 2B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226683472', wa_id: '5217226683472' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjY4MzQ3MhUCABEYEjk0MTc0OEE3NDFGN0M4RkE1RgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5515355279"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 2C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525515355279 (Casa 2C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525515355279', wa_id: '5215515355279' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUxNTM1NTI3ORUCABEYEkNBMEQ2MTlBNDc4MDBGM0ZFNgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "2293254884"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 3A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +522293254884 (Casa 3A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+522293254884', wa_id: '5212293254884' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxMjI5MzI1NDg4NBUCABEYEkYwNjQyRDc1NzIwQzIwRjkzMgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5625677533"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 3B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525625677533 (Casa 3B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525625677533', wa_id: '5215625677533' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTYyNTY3NzUzMxUCABEYEjExMjFBRDA4RkE3Nzg0N0ZFRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5549297032"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 3C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525549297032 (Casa 3C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525549297032', wa_id: '5215549297032' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0OTI5NzAzMhUCABEYEjA2RjRCOTEwQjBEQzlCN0I5OAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5530859183"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 3D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525530859183 (Casa 3D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525530859183', wa_id: '5215530859183' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzMDg1OTE4MxUCABEYEjMxMEMyQkYxNUMxQjc1NzcyNgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5518795973"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525518795973 (Casa 4B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525518795973', wa_id: '5215518795973' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUxODc5NTk3MxUCABEYEkY5Rjc3OUZDRDdBRTBFQUVDNgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5548470085"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525548470085 (Casa 4B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525548470085', wa_id: '5215548470085' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0ODQ3MDA4NRUCABEYEjMxMDg3NkU3MzlDMzY1RjdBNwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7223775895"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527223775895 (Casa 4C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223775895', wa_id: '5217223775895' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzc3NTg5NRUCABEYEjg0RDZDQTAzMzMyNUZCMDkwOAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7226476754"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527226476754 (Casa 4D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226476754', wa_id: '5217226476754' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQ3Njc1NBUCABEYEjNFOURBNTY3NTJCQTY1QUJFRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5511978667"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 5A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525511978667 (Casa 5A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525511978667', wa_id: '5215511978667' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUxMTk3ODY2NxUCABEYEjc0M0M0NzNBN0Q5NDNGNEYzMgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7228816714"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 5C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527228816714 (Casa 5C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228816714', wa_id: '5217228816714' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODgxNjcxNBUCABEYEjQ3QUQ5QzI2NzY3NDA5ODI0MQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7228516900"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 6B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527228516900 (Casa 6B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228516900', wa_id: '5217228516900' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODUxNjkwMBUCABEYEkU2NjM3Q0E4QUI4MEFENTNBMwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7225681233"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 6D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527225681233 (Casa 6D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527225681233', wa_id: '5217225681233' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNTY4MTIzMxUCABEYEkYyOTdERDBGMzFEMTdENEM4NgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7227103114"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 7A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527227103114 (Casa 7A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527227103114', wa_id: '5217227103114' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNzEwMzExNBUCABEYEjM0NDM3RkFEQjVBMEREMTdDRQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5537073760"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 7C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525537073760 (Casa 7C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525537073760', wa_id: '5215537073760' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzNzA3Mzc2MBUCABEYEjg4MjM0RkM4MjNBREQxMjIzRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5631880796"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 8A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525631880796 (Casa 8A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525631880796', wa_id: '5215631880796' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTYzMTg4MDc5NhUCABEYEkQyQTBEQzU0Mjc1N0FFQkQyNgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7221287875"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 8C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527221287875 (Casa 8C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527221287875', wa_id: '5217221287875' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMTI4Nzg3NRUCABEYEkQwMzcxN0M1MTEwQTU3OEFGQwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5586499783"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 8D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525586499783 (Casa 8D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525586499783', wa_id: '5215586499783' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU4NjQ5OTc4MxUCABEYEkY4MTExNzZFOEExMTVBOENGRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7292344269"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 9A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527292344269 (Casa 9A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527292344269', wa_id: '5217292344269' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MjM0NDI2ORUCABEYEjFDNTExNkU2ODFGMERBNUZGOAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "5543304039"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 9C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +525543304039 (Casa 9C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525543304039', wa_id: '5215543304039' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0MzMwNDAzORUCABEYEjM2MkNEQTZERTgyNkQ4MUNCRQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7225629620"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 9D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527225629620 (Casa 9D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527225629620', wa_id: '5217225629620' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNTYyOTYyMBUCABEYEkQyQUI2NjY1QjM2NzMxNEJBMQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7223950139"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 10B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527223950139 (Casa 10B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223950139', wa_id: '5217223950139' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzk1MDEzORUCABEYEjJFMUVENkQyQjQ0QkIwQzE5MwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7224747002"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 1D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527224747002 (Casa 1D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527224747002', wa_id: '5217224747002' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNDc0NzAwMhUCABEYEjA2Nzc2Q0JGNTc2QTJCQ0JDMgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7223874354"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 4A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527223874354 (Casa 4A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223874354', wa_id: '5217223874354' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzg3NDM1NBUCABEYEjI1QjQzOTczMzg0NTUwMDQ3NwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7226416686"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 9B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527226416686 (Casa 9B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226416686', wa_id: '5217226416686' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQxNjY4NhUCABEYEjNBMEVGRDBFQzEwM0Y0NzU2MwA=',
+      message_status: 'accepted'
+    }
+  ]
+}

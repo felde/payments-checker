@@ -1146,3 +1146,45 @@ Message to +527226416686 (Casa 9B): {
     }
   ]
 }
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "notify",
+        "text": "7226496954"
+      },
+      {
+        "type": "text",
+        "parameter_name": "house",
+        "text": "Casa 5B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "key",
+        "text": "534"
+      },
+      {
+        "type": "text",
+        "parameter_name": "month",
+        "text": "7"
+      },
+      {
+        "type": "text",
+        "parameter_name": "year",
+        "text": "2025"
+      }
+    ]
+  }
+]
+Message to +527226496954 (Casa 5B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226496954', wa_id: '5217226496954' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQ5Njk1NBUCABEYEjMyNzdDRUNCOTBFRTNEMTFBRAA=',
+      message_status: 'accepted'
+    }
+  ]
+}

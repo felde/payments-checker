@@ -11,9 +11,8 @@ const accessToken = process.env.ACCESS_TOKEN;
 
 const link = process.env.FIRST_LIST;
 const templateName = process.env.NOTIFICATION_TEMPLATE_NAME;
-const notifyTitle = "Encuesta derivada de reunión 20-06-2025";
-const notifyText =
-  "Favor de votar la encuesta de propuestas para la mejora en nuestra privada. El tiempo estimado para contestar es de 5 minutos.";
+const notifyTitle = "Encuesta sobre propuestas discutidas el 20/06/2025";
+const notifyText = "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder.";
 
 async function readJson() {
   const data = fs.readFileSync("./Data/Notify.json", "utf8");

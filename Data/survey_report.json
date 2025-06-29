@@ -1,0 +1,1716 @@
+Processing notification for 1A (+525554929498), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "1A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525554929498 (1A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525554929498', wa_id: '5215554929498' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU1NDkyOTQ5OBUCABEYEjc3REE0NEY4RDM4MTg4NzlCRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 1B (+525579102857), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "1B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525579102857 (1B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525579102857', wa_id: '5215579102857' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU3OTEwMjg1NxUCABEYEjRDM0ZFRDYyN0UzQURFREYzMQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 1C (+527291243547), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "1C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527291243547 (1C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527291243547', wa_id: '5217291243547' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MTI0MzU0NxUCABEYEjBBRUExM0Q4REY2RjRDRTRBQgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 1D (+527224747002), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "1D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527224747002 (1D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527224747002', wa_id: '5217224747002' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNDc0NzAwMhUCABEYEkUzMUJEQzczMzVCRjREMUExQwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 2A (+525539988713), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "2A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525539988713 (2A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525539988713', wa_id: '5215539988713' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzOTk4ODcxMxUCABEYEjYwODI2QkNBNjM2QUM0NzQ2RAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 2B (+527226683472), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "2B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527226683472 (2B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226683472', wa_id: '5217226683472' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjY4MzQ3MhUCABEYEkYyNzQxNDNGMzk4RUJFOUUzRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 2C (+525515355279), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "2C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525515355279 (2C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525515355279', wa_id: '5215515355279' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUxNTM1NTI3ORUCABEYEkUyRkE3RTY3N0Y2QzgxMUI3MgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 2D (+527222295375), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "2D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527222295375 (2D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527222295375', wa_id: '5217222295375' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMjI5NTM3NRUCABEYEkZFQjZFQjZEREE3ODgyOEE1QQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 3A (+522293254884), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "3A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +522293254884 (3A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+522293254884', wa_id: '5212293254884' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxMjI5MzI1NDg4NBUCABEYEkQ5N0UxRTM5MjgwRDQ4QzVBQgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 3B (+525625677533), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "3B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525625677533 (3B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525625677533', wa_id: '5215625677533' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTYyNTY3NzUzMxUCABEYEkI0OEQ3MTk0MkY4MTQ1NjgzOQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 3C (+525549297032), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "3C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525549297032 (3C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525549297032', wa_id: '5215549297032' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0OTI5NzAzMhUCABEYEjNDNDlFMTBBOUM1MURDQjFCNQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 3D (+525530859183), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "3D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525530859183 (3D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525530859183', wa_id: '5215530859183' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzMDg1OTE4MxUCABEYEkU4NTdFNDI0NzY4QUMyNTZGQwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 4A (+527223874354), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "4A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527223874354 (4A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223874354', wa_id: '5217223874354' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzg3NDM1NBUCABEYEjFEMTFDMjBBOUM0MTVDQkQ0QwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 4B (+525548470085), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "4B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525548470085 (4B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525548470085', wa_id: '5215548470085' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0ODQ3MDA4NRUCABEYEkQyNjI1QzFDMDUxRjlDMjdENwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 4C (+527223775895), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "4C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527223775895 (4C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223775895', wa_id: '5217223775895' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzc3NTg5NRUCABEYEkZGQkFGREUwNERCQzMyNjM3NQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 4D (+527226476754), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "4D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527226476754 (4D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226476754', wa_id: '5217226476754' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQ3Njc1NBUCABEYEkIyQkU0QjQ5QUFCNDNGNTg0RgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 5A (+525511978667), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "5A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525511978667 (5A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525511978667', wa_id: '5215511978667' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUxMTk3ODY2NxUCABEYEkUxQjVGMENCQzUzMDBFQUYxMgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 5B (+527226496954), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "5B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527226496954 (5B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226496954', wa_id: '5217226496954' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQ5Njk1NBUCABEYEjEyNUQzMkYwNTQ0REM4RDU4MgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 5C (+527228816714), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "5C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527228816714 (5C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228816714', wa_id: '5217228816714' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODgxNjcxNBUCABEYEjg0RDc1NjVERkVBRDIyMjVBOAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 5D (+527291071224), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "5D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527291071224 (5D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527291071224', wa_id: '5217291071224' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MTA3MTIyNBUCABEYEjFBMUUwMDMxNEY5NkFGMTQ0NgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 6A (+527223920614), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "6A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527223920614 (6A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223920614', wa_id: '5217223920614' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzkyMDYxNBUCABEYEjA2Njc0OTMwMUI5QTYzNDM4MgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 6B (+527228516900), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "6B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527228516900 (6B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228516900', wa_id: '5217228516900' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODUxNjkwMBUCABEYEkExQTIxNzI5NTRFQTI5NEJGOQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 6C (+527228442715), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "6C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527228442715 (6C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527228442715', wa_id: '5217228442715' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyODQ0MjcxNRUCABEYEjU3NzAyQTRGRjVENDExRTc0MwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 6D (+527225681233), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "6D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527225681233 (6D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527225681233', wa_id: '5217225681233' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNTY4MTIzMxUCABEYEjEwM0FBMDhCMzMxNTY4RDA4QQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 7A (+527227103114), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "7A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527227103114 (7A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527227103114', wa_id: '5217227103114' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNzEwMzExNBUCABEYEkEyMDZDQTRBNTk3RUJGMjE0QQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 7B (+527226205583), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "7B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527226205583 (7B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226205583', wa_id: '5217226205583' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjIwNTU4MxUCABEYEjNGMTk3OUIyM0RCRDNDNEE1NAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 7C (+525537073760), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "7C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525537073760 (7C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525537073760', wa_id: '5215537073760' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzNzA3Mzc2MBUCABEYEjA0OTQyMDAwMjM4QjFBRThBRgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 7D (+527222549884), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "7D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527222549884 (7D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527222549884', wa_id: '5217222549884' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMjU0OTg4NBUCABEYEjI3MjY0REMwREEzNkY3RjkyMQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 8A (+525631880796), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "8A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525631880796 (8A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525631880796', wa_id: '5215631880796' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTYzMTg4MDc5NhUCABEYEkY2MDUzMDAyMTdDQTVCNkQ5MgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 8B (+527224196939), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "8B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527224196939 (8B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527224196939', wa_id: '5217224196939' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNDE5NjkzORUCABEYEkZENkVFMjc5NTE2Q0FCMjcyNwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 8C (+527221287875), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "8C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527221287875 (8C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527221287875', wa_id: '5217221287875' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMTI4Nzg3NRUCABEYEkU0QjU5NUJGMTg2RTc1MUFCRAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 8D (+525586499783), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "8D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525586499783 (8D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525586499783', wa_id: '5215586499783' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU4NjQ5OTc4MxUCABEYEjNCQUE5MUVBREI3RUZERTI0NQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 9A (+527292344269), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "9A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527292344269 (9A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527292344269', wa_id: '5217292344269' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzI5MjM0NDI2ORUCABEYEjUyNjgzMTc2NTc2RTA4REI0OQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 9B (+527226416686), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "9B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527226416686 (9B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527226416686', wa_id: '5217226416686' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNjQxNjY4NhUCABEYEjc0QjI2ODYxRkYzRDA0ODEyQQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 9C (+525543304039), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "9C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525543304039 (9C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525543304039', wa_id: '5215543304039' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTU0MzMwNDAzORUCABEYEjE5RjA5RkQ3RjY4NTY4NTgxQgA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 9D (+527225629620), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "9D"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527225629620 (9D): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527225629620', wa_id: '5217225629620' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyNTYyOTYyMBUCABEYEjJDMkUwQzg1NTA0MzQyMzk3OAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 10A (+527221009318), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "10A"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527221009318 (10A): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527221009318', wa_id: '5217221009318' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMTAwOTMxOBUCABEYEkI1N0Y0NEE4QkM3MTc5MzYyRAA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 10B (+527223950139), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "10B"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +527223950139 (10B): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+527223950139', wa_id: '5217223950139' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNzIyMzk1MDEzORUCABEYEjQzN0I0RDJGRTg3OTQwOTFDNwA=',
+      message_status: 'accepted'
+    }
+  ]
+}
+Processing notification for 10C (+525534002987), cEzgC
+Datos enviados a WhatsApp: [
+  {
+    "type": "body",
+    "parameters": [
+      {
+        "type": "text",
+        "parameter_name": "neigh_value",
+        "text": "10C"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_title",
+        "text": "Encuesta sobre propuestas discutidas el 20/06/2025"
+      },
+      {
+        "type": "text",
+        "parameter_name": "notify_text",
+        "text": "Te invitamos a participar en la encuesta sobre las propuestas tratadas en la reunión del 20 de junio; tu opinión es muy valiosa para mejorar nuestra privada y solo te tomará 5 minutos responder."
+      }
+    ]
+  },
+  {
+    "type": "button",
+    "sub_type": "url",
+    "index": 0,
+    "parameters": [
+      {
+        "type": "text",
+        "text": "cEzgC"
+      }
+    ]
+  }
+]
+Message to +525534002987 (10C): {
+  messaging_product: 'whatsapp',
+  contacts: [ { input: '+525534002987', wa_id: '5215534002987' } ],
+  messages: [
+    {
+      id: 'wamid.HBgNNTIxNTUzNDAwMjk4NxUCABEYEkI5M0U0Q0FGQjZBRjU0RUJEMQA=',
+      message_status: 'accepted'
+    }
+  ]
+}
